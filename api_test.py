@@ -357,6 +357,16 @@ def validate_expected_failure(
     return payload
 
 
+def validate_deploy_data(data: dict[str, Any]) -> None:
+    _require("modality_ip" in data, "data 缺少 modality_ip")
+    _require(isinstance(data["modality_ip"], str), "data.modality_ip 必须是字符串")
+    _require("modality_port" in data, "data 缺少 modality_port")
+    _require(
+        isinstance(data["modality_port"], str),
+        "data.modality_port 必须是字符串",
+    )
+
+
 def _validate_usage_resource(resource: Any, field: str) -> None:
     _require(isinstance(resource, dict), f"{field} 必须是对象")
     numeric_fields = (
@@ -878,7 +888,9 @@ def run_suite(args: argparse.Namespace) -> int:
             )
             if _response_code(result) == 0:
                 deployed = True
-            return validate_success(result, deploy_request_id, reporter=reporter)
+            data = validate_success(result, deploy_request_id, reporter=reporter)
+            validate_deploy_data(data)
+            return data
 
         deploy_outcome = reporter.run(
             "正常流程/模态部署",
@@ -892,7 +904,9 @@ def run_suite(args: argparse.Namespace) -> int:
                 f"forwarding={args.forwarding_config_mbps}Mbps"
             ),
             output_summary=lambda data: (
-                f"code=0, request_id={data['request_id']}"
+                f"code=0, request_id={data['request_id']}, "
+                f"modality_ip={data['modality_ip']}, "
+                f"modality_port={data['modality_port']}"
             ),
         )
         if not deploy_outcome.ok:
