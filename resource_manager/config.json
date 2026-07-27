@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {
+      "node_id": "sdn234",
+      "base_url": "http://192.168.104.234:8000",
+      "enabled": false
+    },
+    {
+      "node_id": "IPL238",
+      "base_url": "http://192.168.104.238:8000",
+      "enabled": true
+    }
+  ],
+  "monitor": {
+    "interval_seconds": 1,
+    "timeout_seconds": 5
+  },
+  "database": {
+    "enabled": false,
+    "host": "192.168.104.237",
+    "port": 8086,
+    "username": "xzc",
+    "password": "ustcipl",
+    "name": "MODALITY_RESOURCE",
+    "measurement": "resource",
+    "timeout_seconds": 5
+  },
+  "server": {
+    "host": "0.0.0.0",
+    "port": 9001,
+    "workers": 1
+  },
+  "decision": {
+    "enabled": true,
+    "base_url": "http://127.0.0.1:9000",
+    "interval_seconds": 3,
+    "timeout_seconds": 3
+  }
+}

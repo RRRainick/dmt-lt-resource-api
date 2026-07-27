@@ -1,0 +1,3274 @@
+{
+  "entries": {
+    "node:IPL238@timestamp:1784893156257": {
+      "time": 1784893156257,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893157255": {
+      "time": 1784893157255,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893158255": {
+      "time": 1784893158255,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893159256": {
+      "time": 1784893159256,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893164866": {
+      "time": 1784893164866,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893165863": {
+      "time": 1784893165863,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893166864": {
+      "time": 1784893166864,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893167864": {
+      "time": 1784893167864,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893168864": {
+      "time": 1784893168864,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893169864": {
+      "time": 1784893169864,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893170864": {
+      "time": 1784893170864,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893171864": {
+      "time": 1784893171864,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893172864": {
+      "time": 1784893172864,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893173865": {
+      "time": 1784893173865,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893174865": {
+      "time": 1784893174865,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893175865": {
+      "time": 1784893175865,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893176865": {
+      "time": 1784893176865,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893177865": {
+      "time": 1784893177865,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893178865": {
+      "time": 1784893178865,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893179865": {
+      "time": 1784893179865,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893180865": {
+      "time": 1784893180865,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893181865": {
+      "time": 1784893181865,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893182866": {
+      "time": 1784893182866,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893183866": {
+      "time": 1784893183866,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893184866": {
+      "time": 1784893184866,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893185866": {
+      "time": 1784893185866,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893186866": {
+      "time": 1784893186866,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893187866": {
+      "time": 1784893187866,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893188867": {
+      "time": 1784893188867,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893189866": {
+      "time": 1784893189866,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893190867": {
+      "time": 1784893190867,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893191867": {
+      "time": 1784893191867,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893192867": {
+      "time": 1784893192867,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893344301": {
+      "time": 1784893344301,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893345300": {
+      "time": 1784893345300,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893346300": {
+      "time": 1784893346300,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893347300": {
+      "time": 1784893347300,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893348300": {
+      "time": 1784893348300,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893349300": {
+      "time": 1784893349300,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893350301": {
+      "time": 1784893350301,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893351301": {
+      "time": 1784893351301,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893352301": {
+      "time": 1784893352301,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893353301": {
+      "time": 1784893353301,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893354301": {
+      "time": 1784893354301,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893355301": {
+      "time": 1784893355301,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893356301": {
+      "time": 1784893356301,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893357301": {
+      "time": 1784893357301,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893358302": {
+      "time": 1784893358302,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893359302": {
+      "time": 1784893359302,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893360302": {
+      "time": 1784893360302,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893361302": {
+      "time": 1784893361302,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893362302": {
+      "time": 1784893362302,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893363302": {
+      "time": 1784893363302,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893364302": {
+      "time": 1784893364302,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893365303": {
+      "time": 1784893365303,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893366303": {
+      "time": 1784893366303,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893367303": {
+      "time": 1784893367303,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893368303": {
+      "time": 1784893368303,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893369303": {
+      "time": 1784893369303,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893370303": {
+      "time": 1784893370303,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893371304": {
+      "time": 1784893371304,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893411527": {
+      "time": 1784893411527,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893412525": {
+      "time": 1784893412525,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893413525": {
+      "time": 1784893413525,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893414525": {
+      "time": 1784893414525,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893415526": {
+      "time": 1784893415526,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893416526": {
+      "time": 1784893416526,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893417526": {
+      "time": 1784893417526,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893418526": {
+      "time": 1784893418526,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893419526": {
+      "time": 1784893419526,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893420526": {
+      "time": 1784893420526,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893421526": {
+      "time": 1784893421526,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893422526": {
+      "time": 1784893422526,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893423527": {
+      "time": 1784893423527,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893424527": {
+      "time": 1784893424527,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893425527": {
+      "time": 1784893425527,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893426527": {
+      "time": 1784893426527,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893427527": {
+      "time": 1784893427527,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893428527": {
+      "time": 1784893428527,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893429527": {
+      "time": 1784893429527,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893430527": {
+      "time": 1784893430527,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893431527": {
+      "time": 1784893431527,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893432528": {
+      "time": 1784893432528,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893433528": {
+      "time": 1784893433528,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893434528": {
+      "time": 1784893434528,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893435528": {
+      "time": 1784893435528,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893436528": {
+      "time": 1784893436528,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893437528": {
+      "time": 1784893437528,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893438528": {
+      "time": 1784893438528,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893439528": {
+      "time": 1784893439528,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893440528": {
+      "time": 1784893440528,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893441529": {
+      "time": 1784893441529,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893442529": {
+      "time": 1784893442529,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893443529": {
+      "time": 1784893443529,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893444529": {
+      "time": 1784893444529,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893445529": {
+      "time": 1784893445529,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893446529": {
+      "time": 1784893446529,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893447529": {
+      "time": 1784893447529,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893448530": {
+      "time": 1784893448530,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893449530": {
+      "time": 1784893449530,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893450530": {
+      "time": 1784893450530,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893451530": {
+      "time": 1784893451530,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893452530": {
+      "time": 1784893452530,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893453530": {
+      "time": 1784893453530,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893454530": {
+      "time": 1784893454530,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893455530": {
+      "time": 1784893455530,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893456531": {
+      "time": 1784893456531,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893457531": {
+      "time": 1784893457531,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893458531": {
+      "time": 1784893458531,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893459531": {
+      "time": 1784893459531,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893460531": {
+      "time": 1784893460531,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893461531": {
+      "time": 1784893461531,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893462531": {
+      "time": 1784893462531,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893463531": {
+      "time": 1784893463531,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893464532": {
+      "time": 1784893464532,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893465532": {
+      "time": 1784893465532,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893466532": {
+      "time": 1784893466532,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893467532": {
+      "time": 1784893467532,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893468532": {
+      "time": 1784893468532,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893469532": {
+      "time": 1784893469532,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893470533": {
+      "time": 1784893470533,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893471532": {
+      "time": 1784893471532,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893472533": {
+      "time": 1784893472533,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893473533": {
+      "time": 1784893473533,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893474533": {
+      "time": 1784893474533,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893475533": {
+      "time": 1784893475533,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893476533": {
+      "time": 1784893476533,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893477533": {
+      "time": 1784893477533,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893478533": {
+      "time": 1784893478533,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893479534": {
+      "time": 1784893479534,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893480534": {
+      "time": 1784893480534,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893481533": {
+      "time": 1784893481533,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893482534": {
+      "time": 1784893482534,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893483534": {
+      "time": 1784893483534,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893484534": {
+      "time": 1784893484534,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893485534": {
+      "time": 1784893485534,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893486535": {
+      "time": 1784893486535,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893487535": {
+      "time": 1784893487535,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893488535": {
+      "time": 1784893488535,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893489535": {
+      "time": 1784893489535,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893490535": {
+      "time": 1784893490535,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893491535": {
+      "time": 1784893491535,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893492535": {
+      "time": 1784893492535,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893493535": {
+      "time": 1784893493535,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893494535": {
+      "time": 1784893494535,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893495535": {
+      "time": 1784893495535,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893496536": {
+      "time": 1784893496536,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893497536": {
+      "time": 1784893497536,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893498536": {
+      "time": 1784893498536,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893499536": {
+      "time": 1784893499536,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893500536": {
+      "time": 1784893500536,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893501536": {
+      "time": 1784893501536,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893502536": {
+      "time": 1784893502536,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893503536": {
+      "time": 1784893503536,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893504536": {
+      "time": 1784893504536,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893505537": {
+      "time": 1784893505537,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893506537": {
+      "time": 1784893506537,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893507537": {
+      "time": 1784893507537,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893508537": {
+      "time": 1784893508537,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893509537": {
+      "time": 1784893509537,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893510537": {
+      "time": 1784893510537,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893511537": {
+      "time": 1784893511537,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893512537": {
+      "time": 1784893512537,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893513538": {
+      "time": 1784893513538,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893514538": {
+      "time": 1784893514538,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893515538": {
+      "time": 1784893515538,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893516538": {
+      "time": 1784893516538,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893517538": {
+      "time": 1784893517538,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893518538": {
+      "time": 1784893518538,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893519538": {
+      "time": 1784893519538,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893520538": {
+      "time": 1784893520538,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893521539": {
+      "time": 1784893521539,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893522539": {
+      "time": 1784893522539,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893523539": {
+      "time": 1784893523539,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893524539": {
+      "time": 1784893524539,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893525539": {
+      "time": 1784893525539,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893526539": {
+      "time": 1784893526539,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893527539": {
+      "time": 1784893527539,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893528539": {
+      "time": 1784893528539,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893529539": {
+      "time": 1784893529539,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893530540": {
+      "time": 1784893530540,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893531540": {
+      "time": 1784893531540,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893532540": {
+      "time": 1784893532540,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893533540": {
+      "time": 1784893533540,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893534540": {
+      "time": 1784893534540,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893535540": {
+      "time": 1784893535540,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893536540": {
+      "time": 1784893536540,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893537541": {
+      "time": 1784893537541,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893538541": {
+      "time": 1784893538541,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893539541": {
+      "time": 1784893539541,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893540541": {
+      "time": 1784893540541,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893541541": {
+      "time": 1784893541541,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893542541": {
+      "time": 1784893542541,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893543541": {
+      "time": 1784893543541,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893544541": {
+      "time": 1784893544541,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893545542": {
+      "time": 1784893545542,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893546542": {
+      "time": 1784893546542,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893547542": {
+      "time": 1784893547542,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893548542": {
+      "time": 1784893548542,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893549542": {
+      "time": 1784893549542,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893550542": {
+      "time": 1784893550542,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893551542": {
+      "time": 1784893551542,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893552543": {
+      "time": 1784893552543,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893553542": {
+      "time": 1784893553542,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893554543": {
+      "time": 1784893554543,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893555543": {
+      "time": 1784893555543,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893556543": {
+      "time": 1784893556543,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893557543": {
+      "time": 1784893557543,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893558543": {
+      "time": 1784893558543,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893559544": {
+      "time": 1784893559544,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893560544": {
+      "time": 1784893560544,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893561544": {
+      "time": 1784893561544,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893562544": {
+      "time": 1784893562544,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893575413": {
+      "time": 1784893575413,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893576411": {
+      "time": 1784893576411,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893577411": {
+      "time": 1784893577411,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893578411": {
+      "time": 1784893578411,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893579411": {
+      "time": 1784893579411,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893580411": {
+      "time": 1784893580411,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893581411": {
+      "time": 1784893581411,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893582411": {
+      "time": 1784893582411,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893583411": {
+      "time": 1784893583411,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893584412": {
+      "time": 1784893584412,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893585412": {
+      "time": 1784893585412,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893586412": {
+      "time": 1784893586412,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893587412": {
+      "time": 1784893587412,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893588412": {
+      "time": 1784893588412,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893589412": {
+      "time": 1784893589412,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893590412": {
+      "time": 1784893590412,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893591412": {
+      "time": 1784893591412,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893592412": {
+      "time": 1784893592412,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893593413": {
+      "time": 1784893593413,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893594413": {
+      "time": 1784893594413,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893595413": {
+      "time": 1784893595413,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893596413": {
+      "time": 1784893596413,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893597413": {
+      "time": 1784893597413,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893598414": {
+      "time": 1784893598414,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893599414": {
+      "time": 1784893599414,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893600414": {
+      "time": 1784893600414,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893601414": {
+      "time": 1784893601414,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893602414": {
+      "time": 1784893602414,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893603414": {
+      "time": 1784893603414,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893604414": {
+      "time": 1784893604414,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893605414": {
+      "time": 1784893605414,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893606414": {
+      "time": 1784893606414,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893607415": {
+      "time": 1784893607415,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893608415": {
+      "time": 1784893608415,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893609415": {
+      "time": 1784893609415,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893610415": {
+      "time": 1784893610415,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893611415": {
+      "time": 1784893611415,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893612415": {
+      "time": 1784893612415,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893613415": {
+      "time": 1784893613415,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893614415": {
+      "time": 1784893614415,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893615416": {
+      "time": 1784893615416,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893616416": {
+      "time": 1784893616416,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893617416": {
+      "time": 1784893617416,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893618416": {
+      "time": 1784893618416,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893619416": {
+      "time": 1784893619416,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893620416": {
+      "time": 1784893620416,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893621417": {
+      "time": 1784893621417,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893622416": {
+      "time": 1784893622416,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893623417": {
+      "time": 1784893623417,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893624417": {
+      "time": 1784893624417,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893625417": {
+      "time": 1784893625417,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893626417": {
+      "time": 1784893626417,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893627417": {
+      "time": 1784893627417,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893628417": {
+      "time": 1784893628417,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893629417": {
+      "time": 1784893629417,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893630418": {
+      "time": 1784893630418,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893631417": {
+      "time": 1784893631417,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893632418": {
+      "time": 1784893632418,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893633418": {
+      "time": 1784893633418,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893634418": {
+      "time": 1784893634418,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893635418": {
+      "time": 1784893635418,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893636418": {
+      "time": 1784893636418,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893637419": {
+      "time": 1784893637419,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893638418": {
+      "time": 1784893638418,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893639419": {
+      "time": 1784893639419,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893640419": {
+      "time": 1784893640419,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893641419": {
+      "time": 1784893641419,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893642419": {
+      "time": 1784893642419,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893643419": {
+      "time": 1784893643419,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893644419": {
+      "time": 1784893644419,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893645419": {
+      "time": 1784893645419,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893646420": {
+      "time": 1784893646420,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893647419": {
+      "time": 1784893647419,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893648419": {
+      "time": 1784893648419,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893649420": {
+      "time": 1784893649420,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893650420": {
+      "time": 1784893650420,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893651420": {
+      "time": 1784893651420,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893652420": {
+      "time": 1784893652420,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893653420": {
+      "time": 1784893653420,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893654420": {
+      "time": 1784893654420,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893655420": {
+      "time": 1784893655420,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893656421": {
+      "time": 1784893656421,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893657420": {
+      "time": 1784893657420,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893658421": {
+      "time": 1784893658421,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893659421": {
+      "time": 1784893659421,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893660421": {
+      "time": 1784893660421,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893661421": {
+      "time": 1784893661421,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893662421": {
+      "time": 1784893662421,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893663421": {
+      "time": 1784893663421,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893664422": {
+      "time": 1784893664422,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893665422": {
+      "time": 1784893665422,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893666422": {
+      "time": 1784893666422,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893667422": {
+      "time": 1784893667422,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893668422": {
+      "time": 1784893668422,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893669422": {
+      "time": 1784893669422,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 0.0,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"ipv4\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.0, \"mem_util_ratio\": 0.0, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893680547": {
+      "time": 1784893680547,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.011970074812967581,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 7461.236736,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"geo\": {\"cpu_ratio\": 0.000134, \"mem_util_ratio\": 9.46176, \"trans_util_ratio\": 0.0}, \"ipv4\": {\"cpu_ratio\": 0.000136, \"mem_util_ratio\": 9.703424, \"trans_util_ratio\": 0.0}, \"ipv6\": {\"cpu_ratio\": 0.000141, \"mem_util_ratio\": 9.797632, \"trans_util_ratio\": 0.0}, \"ndn\": {\"cpu_ratio\": 0.000135, \"mem_util_ratio\": 9.883648, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.000141, \"mem_util_ratio\": 10.043392, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893681551": {
+      "time": 1784893681551,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0044753853804077575,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 7461.10976,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"geo\": {\"cpu_ratio\": 0.000149, \"mem_util_ratio\": 9.46176, \"trans_util_ratio\": 0.0}, \"ipv4\": {\"cpu_ratio\": 0.000134, \"mem_util_ratio\": 9.703424, \"trans_util_ratio\": 0.0}, \"ipv6\": {\"cpu_ratio\": 0.000144, \"mem_util_ratio\": 9.797632, \"trans_util_ratio\": 0.0}, \"ndn\": {\"cpu_ratio\": 0.000143, \"mem_util_ratio\": 9.883648, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.000134, \"mem_util_ratio\": 10.043392, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893682555": {
+      "time": 1784893682555,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.0014955134596211367,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 7460.47488,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"geo\": {\"cpu_ratio\": 0.000152, \"mem_util_ratio\": 9.46176, \"trans_util_ratio\": 0.0}, \"ipv4\": {\"cpu_ratio\": 0.000143, \"mem_util_ratio\": 9.703424, \"trans_util_ratio\": 0.0}, \"ipv6\": {\"cpu_ratio\": 0.000151, \"mem_util_ratio\": 9.797632, \"trans_util_ratio\": 0.0}, \"ndn\": {\"cpu_ratio\": 0.000146, \"mem_util_ratio\": 9.883648, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.00014, \"mem_util_ratio\": 10.043392, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1784893683663": {
+      "time": 1784893683663,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.00993676603432701,
+      "mem_max": 67015.192576,
+      "mem_util_ratio": 7461.343232,
+      "trans_max": 10000.0,
+      "trans_util_ratio": 0.0,
+      "mode_resource_list": "{\"geo\": {\"cpu_ratio\": 0.00015, \"mem_util_ratio\": 9.46176, \"trans_util_ratio\": 0.0}, \"ipv4\": {\"cpu_ratio\": 0.000142, \"mem_util_ratio\": 9.703424, \"trans_util_ratio\": 0.0}, \"ipv6\": {\"cpu_ratio\": 0.000145, \"mem_util_ratio\": 9.797632, \"trans_util_ratio\": 0.0}, \"ndn\": {\"cpu_ratio\": 0.000148, \"mem_util_ratio\": 9.883648, \"trans_util_ratio\": 0.0}, \"srv6\": {\"cpu_ratio\": 0.000143, \"mem_util_ratio\": 10.043392, \"trans_util_ratio\": 0.0}}"
+    },
+    "node:IPL238@timestamp:1785120626133": {
+      "time": 1785120626133,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.062,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128382.41,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.08,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120627133": {
+      "time": 1785120627133,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.065,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128385.28,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.07,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120628134": {
+      "time": 1785120628134,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.063,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128386.62,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.07,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120629134": {
+      "time": 1785120629134,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.062,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128390.97,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.06,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120630134": {
+      "time": 1785120630134,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.062,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128384.94,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.06,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120631134": {
+      "time": 1785120631134,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.062,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128392.62,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.07,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120632134": {
+      "time": 1785120632134,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.062,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128386.06,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.05,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120633135": {
+      "time": 1785120633135,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.062,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128392.81,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.06,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120634135": {
+      "time": 1785120634135,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.062,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128392.22,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.06,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120635135": {
+      "time": 1785120635135,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.062,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128399.72,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.05,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120636135": {
+      "time": 1785120636135,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.062,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128394.97,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.05,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120637135": {
+      "time": 1785120637135,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.062,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128394.56,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.06,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120638136": {
+      "time": 1785120638136,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.062,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128400.69,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.06,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120639136": {
+      "time": 1785120639136,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.08,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128408.97,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.05,
+      "mode_resource_list": "{}"
+    },
+    "node:IPL238@timestamp:1785120640136": {
+      "time": 1785120640136,
+      "node_id": "IPL238",
+      "cpu_ratio": 0.078,
+      "mem_max": 0.0,
+      "mem_util_ratio": 128400.06,
+      "trans_max": 0.0,
+      "trans_util_ratio": 0.06,
+      "mode_resource_list": "{}"
+    }
+  }
+}

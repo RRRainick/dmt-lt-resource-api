@@ -1,0 +1,39 @@
+{
+  "nodes": [ # 表示能上报和接收资源配置的节点
+    {
+      "node_id": "sdn234",
+      "base_url": "http://192.168.104.234:8000",
+      "enabled": false # false 表示不监测、也不下发此节点的配置
+    },
+    {
+      "node_id": "IPL238", # 这里选填node_id 和 ip地址
+      "base_url": "http://192.168.104.238:8000",
+      "enabled": true
+    }
+  ],
+  "monitor": {  # 监测间隔
+    "interval_seconds": 1,
+    "timeout_seconds": 5
+  },
+  "database": { # enabled=false 表示测试，资源状态写入本地 JSON 文件
+    "enabled": false,
+    "host": "192.168.104.237",
+    "port": 8086,
+    "username": "xzc",
+    "password": "ustcipl",
+    "name": "MODALITY_RESOURCE",
+    "measurement": "resource",
+    "timeout_seconds": 5
+  },
+  "server": { # resource manager 的监听端口
+    "host": "0.0.0.0",
+    "port": 9001,
+    "workers": 1
+  },
+  "decision": {  # 课题四决策服务的访问点
+    "enabled": true, # true 启用资源配置循环；false 只关闭配置循环
+    "base_url": "http://127.0.0.1:9000",
+    "interval_seconds": 3,
+    "timeout_seconds": 3
+  }
+}
