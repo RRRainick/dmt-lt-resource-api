@@ -32,3 +32,9 @@ python3 -m resource_manager.mock_decision_server_once
 cd /path/to/resource-api
 LOG_LEVEL=DEBUG python3 -m resource_manager.run
 ```
+
+# 字段测试
+
+```bash
+bash run_api_test.sh
+```
