@@ -7,7 +7,7 @@
     },
     {
       "node_id": "IPL238",
-      "base_url": "http://192.168.104.238:8000",
+      "base_url": "http://192.168.134.178:8021",
       "enabled": true
     }
   ],
