@@ -116,3 +116,64 @@ DEBUG 4/4 回传资源配置结果：request_id=1 success=1 failed=0
 资源配置模式仍会同时执行资源读取和存储。
 
  
+
+## 模态操作工具
+
+`modality_cli.py` 每次执行一次 `POST /modality/deploy` 或
+`POST /modality/delete`，部署后保留模态，不自动配置资源或清理。
+需要 Python 3.10+，仅使用标准库。连接参数必须显式传入。
+
+```bash
+python3 modality_cli.py \
+  --ip 192.168.134.178 --port 8021 --node-id IPL238 \
+  --action deploy --modality api-test-mode \
+  --compute-config-percent 10 \
+  --storage-config-mb 128 \
+  --forwarding-config-mbps 10
+
+python3 modality_cli.py \
+  --ip 192.168.134.178 --port 8021 --node-id IPL238 \
+  --action delete --modality api-test-mode
+```
+
+`--modality` 为非空字符串，去除首尾空白并保留大小写。
+部署资源参数默认分别为 10%、128 MB、10 Mbps；计算配额范围为 0–100，
+存储和转发配额必须是非负有限数值。`delete` 不接受资源配额参数。
+`--scheme` 默认为 `http`，支持 `https`；`--timeout` 默认为 3 秒。
+
+标准输出为服务端返回的 JSON，错误信息写入标准错误。
+HTTP 2xx 且响应对象的整数 `code` 为 0 时退出码为 0；
+请求失败、非法响应或业务失败为 1，参数错误为 2。不自动重试请求。
+
+### Python 库调用
+
+```python
+from modality_client import ModalityClient
+
+client = ModalityClient("http://192.168.134.178:8021", timeout=10)
+result = client.deploy(
+    "IPL238", "api-test-mode",
+    compute_config_percent=10,
+    storage_config_mb=128,
+    forwarding_config_mbps=10,
+)
+print(result.status, result.payload)
+# 需要删除时单独调用：
+# result = client.delete("IPL238", "api-test-mode")
+```
+
+库自动生成时间戳和请求 ID，也可通过 `request_id=123` 指定请求 ID。
+`deploy()` 和 `delete()` 返回 `HttpResult`，包含 HTTP 状态、正文、JSON、
+JSON 解析错误和耗时。HTTP 或业务失败仍返回结果，由调用方判断；
+无法连接或读取响应时抛出 `TransportFailure`。
+库的请求体构造函数 `deploy_body()`、`delete_body()` 和底层 `request()`
+保留直接构造异常请求的能力，不执行 CLI 参数校验。
+
+`api_test.py` 复用同一库并保留原来的严格响应断言、预检及清理逻辑。
+复制工具或测试脚本到其他主机时，需同时复制 `modality_client.py`。
+
+本地回归测试（仅访问本机模拟 HTTP 服务）：
+
+```bash
+python3 -m unittest -v test_modality
+```
